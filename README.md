@@ -1,6 +1,7 @@
 # CoVaxBD
 CoVaxBD: Bangla-English code-mixed, a sentiment-annotated corpus of Facebook comments
 
+## Working source for `Python 3.9.18`
 
 ## Sentiment Analysis of COVID-19 Vaccination in Bangla Language with Code-Mixed Text from Social Media
 
